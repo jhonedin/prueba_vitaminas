@@ -9,17 +9,15 @@ Es excelente para la visión nocturna, como cuando sales a pedir dulces la noche
 La vitamina A también te ayuda a ver en color, desde el amarillo más claro hasta el morado más oscuro. 
 Además, ayuda al cuerpo a combatir las infecciones al reforzar el sistema inmunitario.
 
-<<<<<<< HEAD
 Las vitaminas B
 Hay más de una vitamina B. He aquí el listado: B1, B2, B6, B12, niacina, ácido fólico, biotina y ácido pantoténico. 
 ¡Uf! ¡Qué grupo tan amplio! Las vitaminas B son importantes para la actividad metabólica, ya que ayudan a fabricar 
 energía y a liberarla cuando el cuerpo la necesita. Por lo tanto, la próxima vez que corras hasta la tercera base, 
 agradéceselo a las vitaminas B.
-=======
+
 La vitamina C
 Esta vitamina es importante para mantener en buen estado los tejidos corporales, como las encías, los huesos, los músculos 
 y los vasos sanguíneos. La vitamina C también es fundamental cuando te cortas o te haces una herida porque 
 favorece la cicatrización.La vitamina C también ayuda a tu cuerpo a combatir las infecciones. 
 Esto significa que, aunque no siempre se puedan evitar las enfermedades, 
 la vitamina C contribuye a que el cuerpo no se deje infectar.
->>>>>>> vitamina_c
